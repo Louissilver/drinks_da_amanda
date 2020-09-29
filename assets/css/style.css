@@ -1,0 +1,24 @@
+.imagem-carrossel{
+	height: 500px;
+	object-fit: cover;
+	object-position: center;
+}
+
+.imagem-carrossel-3{
+	height: 500px;
+	object-fit: cover;
+	object-position: left;
+}
+
+.card-sobre{
+	max-width: 524px;
+}
+
+.imagem-card{
+	height: 250px;
+	object-fit: cover;
+}
+
+.card-receitas{
+	max-width: 18rem;
+}
